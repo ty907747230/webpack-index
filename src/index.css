@@ -1,0 +1,10 @@
+html .container {
+  color: red;
+  display: flex;
+  font-size: 12px;
+}
+html .img {
+  width: 75px;
+  height: 200px;
+  background: url("img/1.jpg");
+}
